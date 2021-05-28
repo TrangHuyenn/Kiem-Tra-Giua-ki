@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		0CE938AD2661179200461C45 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE938AC2661179200461C45 /* main.swift */; };
+		0CE938B42661195800461C45 /* Bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE938B32661195800461C45 /* Bai1.swift */; };
+		0CE938B626611B7100461C45 /* Bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE938B526611B7100461C45 /* Bai2.swift */; };
+		0CE938B82661200C00461C45 /* Bai3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE938B72661200C00461C45 /* Bai3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		0CE938A92661179200461C45 /* KiemtragiuakiTrang */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = KiemtragiuakiTrang; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CE938AC2661179200461C45 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0CE938B32661195800461C45 /* Bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai1.swift; sourceTree = "<group>"; };
+		0CE938B526611B7100461C45 /* Bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai2.swift; sourceTree = "<group>"; };
+		0CE938B72661200C00461C45 /* Bai3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				0CE938AC2661179200461C45 /* main.swift */,
+				0CE938B72661200C00461C45 /* Bai3.swift */,
+				0CE938B526611B7100461C45 /* Bai2.swift */,
+				0CE938B32661195800461C45 /* Bai1.swift */,
 			);
 			path = KiemtragiuakiTrang;
 			sourceTree = "<group>";
@@ -119,6 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CE938B82661200C00461C45 /* Bai3.swift in Sources */,
+				0CE938B42661195800461C45 /* Bai1.swift in Sources */,
+				0CE938B626611B7100461C45 /* Bai2.swift in Sources */,
 				0CE938AD2661179200461C45 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
